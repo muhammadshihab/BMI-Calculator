@@ -1,3 +1,5 @@
+# ================== I'm totally Noob ===================
+
 weight = int(input("Write your weight: "));
 height = float(input("Write your height: "));
 x = weight/float(height*height);
